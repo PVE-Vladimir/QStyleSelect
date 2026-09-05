@@ -74,7 +74,7 @@ Qt 5, as the primary build tool, has a more extensive style repository than Qt 6
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Compiled Qt 5 styles found in the Ubuntu repository: breeze5.so libkvantum.so libqgtk2style.so libqplastiquestyle.so libukui-proxy-style.so qtcurve.so breeze.so libqcleanlooksstyle.so libqmotifstyle.so libqt5-style-ukui.so oxygen.so
 </div>
 <div align="justify">
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Compiled Qt5 styles found in the Ubuntu repository: adwaita.so libqt6ct-style.so
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Compiled Qt6 styles found in the Ubuntu repository: adwaita.so libqt6ct-style.so
 </div>
 
 <div align="justify">
