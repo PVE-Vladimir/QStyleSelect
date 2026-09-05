@@ -94,6 +94,7 @@ MainWindow::MainWindow(QWidget *parent)
 
 MainWindow::~MainWindow()
 {
+    delete oldPalette;
     delete ui;
 }
 
