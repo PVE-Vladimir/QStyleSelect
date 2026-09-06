@@ -10,7 +10,7 @@ Git describes a feature that even the Qt developers forgot about. This feature o
     </div>
 </p>
 <p align="center">
-  <img width="1920" height="1080" alt="Test_style" src="https://github.com/user-attachments/assets/f8d2c6d5-4d8d-4047-9cd3-0e423b264b50" />
+  <img width="635" height="440" alt="TEST_viboor_frame_30" src="https://github.com/user-attachments/assets/b65e9578-b2a4-453f-9a66-5971d24382ce" />
     <div align="center">
   Figure 2 - Selecting styles from the menu
     </div>
